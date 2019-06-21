@@ -1,0 +1,192 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  margin-top: 90px;
+}
+
+header{
+    background-color: #373A3C;
+}
+
+
+nav{
+  background-color: #373A3C
+}
+
+.navbar-brand{
+  font-size: 37px;
+  font-family: 'Lobster', cursive;
+  color: #FFFFFF;
+  font-weight:500;
+}
+.navbar-nav{
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Cabin', sans-serif;
+}
+
+
+.pizza-inicio img{
+  min-width: 100%;
+  margin-top: 24px;
+}
+h1.pizza-inicio {
+  color: #373A3C;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 16px;
+  font-family: 'Cabin', sans-serif;
+}
+p.pizza-inicio {
+  color: #373A3C;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: 'Cabin', sans-serif;
+  border-top: 1px solid #373A3C;
+}
+.boton{
+  color: #373A3C;
+  background-color: #FFFFFF;
+  font-size: 16px;
+  border-color: #DDDDDD;
+  border-width: 1px;
+  text-align: center;
+}
+
+
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #373A3C;
+  flex-basis: 13px;
+  height: 13px;
+}
+.carousel-indicators {
+  bottom: -50px;
+}
+@media (min-width: 768px) {
+}
+
+
+
+.recetas{
+  border-top: 0.5px solid #373A3C;
+  margin-bottom: 53px;
+}
+.texto1 {
+text-align: left;
+list-style-type: none;
+color:#373A3C;
+font-size: 20px;
+}
+.texto1 p{
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 4px;
+}
+.texto1 h3{
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 50px;
+  width: 150px;
+  border-bottom: 1px solid #373A3C;
+}
+.texto1 ul {
+list-style-type: none;
+display: inline-block;
+padding: 0;
+text-align: left;
+}
+.texto1 li{
+  vertical-align: middle;
+  text-align: left;
+  font-size: 20px;
+}
+
+
+.recetas-relacionadas h2{
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  padding: 40px;
+  border-top: 1px solid #373A3C;
+}
+
+
+.card{
+  margin: 0 auto;
+  width: 100%;
+  padding: 2px;
+}
+.card-body h3{
+  font-size: 23px;
+  font-weight: 700;
+}
+.card-body p{
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+.newsletter{
+  background-color: #DC3545;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 80px;
+}
+ .texto{
+   padding: 10px;
+ }
+
+h2.card-title{
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 80px;
+  margin-bottom: 10px;
+  }
+span.text{
+  font-family: 'Lobster', cursive;
+  font-weight:lighter;
+  font-size: 30px;
+  margin-left: 5px;
+  margin-top: -5px;
+}
+p.text{
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.boton{
+  background-color:inherit;
+  border-color: #DDDDDD;
+  border-width: 1px;
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+.boton p{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+footer{
+  background-color: #373A3C;
+}
+footer h2{
+  background-color: #373A3C;
+  color: #FFFFFF;
+  vertical-align: center;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  margin-bottom: 0px;
+  margin-right: 0;
+  margin-left: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
